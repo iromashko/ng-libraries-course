@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "ts-module/dist",
+    "module": "commonjs",
+    "target": "ES6",
+  },
+  "include": [
+    "./"
+  ]
+}

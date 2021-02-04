@@ -1,0 +1,10 @@
+{
+  "name": "ts-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "dist/index.d.ts"
+}

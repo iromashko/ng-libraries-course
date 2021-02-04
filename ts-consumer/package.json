@@ -1,0 +1,12 @@
+{
+  "name": "ts-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && cd dist && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
