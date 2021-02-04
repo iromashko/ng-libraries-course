@@ -14,12 +14,12 @@ export class AngularConsoleLoggerService implements AbstractLoggerService {
   constructor(private LoggerConfig: LoggerConfig) {}
 
   warn(message: string) {
-    throw new Error('Method not implemented.');
+    throw new Error("Method not implemented.");
   }
   error(message: string) {
-    throw new Error('Method not implemented.');
+    throw new Error("Method not implemented.");
   }
   info(message: string) {
-    throw new Error('Method not implemented.');
+    throw new Error("Method not implemented.");
   }
 }
